@@ -22,3 +22,13 @@
   <li>Put in teabag</li>
   <li>Stir</li>
   </ol>
+
+<hr>
+
+<p> Things to do today </p>
+<ul>
+   <li>Go to history class</li>
+  <li>Go to the grocery store</li>
+  <li>Cook</li>
+  <li>Laundry</li>
+  </ul>
