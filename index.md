@@ -21,6 +21,8 @@
 
 <hr>
 
+<h1> 3. Section 3 </h1>
+
 <p> My favorite things </p>
   <ol>
   <li> Speed boats </li>
