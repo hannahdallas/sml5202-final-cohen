@@ -8,7 +8,4 @@
 
 </p> 
 
-
-
-<a href="https://www.w3schools.com/html/html_basic.asp"> visit the W3Schools HTML tutorial</a>
-
+<hr>
