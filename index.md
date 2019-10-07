@@ -1,34 +1,10 @@
-<h1>Welcome!</h1>
+<h1>1. Section 1 </h1?
 
-<p>This website is about English language and culture.</p>
-
-<hr>
-
-<h2> Ode to Autumn</h2>
+<p> Hi! My name is Hannah Cohen, I am 21 years old, and I am from Westchester, New York. I am in my third year of university studying Economics at Northwestern in Chicago but am studying abroad for the semester at Queen Mary in London. </p> <a> href="https://hub.qmplus.qmul.ac.uk/view/view.php?profile=hannah-rivka-cohen&page=sml5202-hannah-s-page" Visit my QMplus Hub page </a>
 
 
-<p>
-  Season of mist and mellow fruitfulness<br>
-  close-nossomed friend of the maturing sun<br>
-  </p>
-  
-  <hr>
 
-<p>How to make a cup of tea</p>
 
-<ol>
-  <li>Boil the water</li>
-  <li>Pour the water into the mug</li>
-  <li>Put in teabag</li>
-  <li>Stir</li>
-  </ol>
 
-<hr>
 
-<p> Things to do today </p>
-<ul>
-   <li>Go to history class</li>
-  <li>Go to the grocery store</li>
-  <li>Cook</li>
-  <li>Laundry</li>
-  </ul>
+
