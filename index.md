@@ -9,3 +9,21 @@
 </p> 
 
 <hr>
+
+<h1> 2. Section 2 </h1>
+
+<p> Things I have to do </p>
+  <ul>
+  <li> Apply to internships </li>
+  <li> Plan trip to Nice </li>
+  <li> Call my grandpa </li>
+  </ul>
+
+<hr>
+
+<p> My favorite things </p>
+  <ol>
+  <li> Speed boats </li>
+  <li> Fireworks </li>
+  <li> Flowers </li>
+  </ol>
