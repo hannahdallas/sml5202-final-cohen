@@ -1,3 +1,4 @@
+<a href="page2.html">Page 2</a> | <a href="page3.html">page 3</a>
 <h1>1. Section 1 </h1>
 
 <p> 
