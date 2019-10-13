@@ -13,3 +13,27 @@
    <dt>Agelast</dt>
   <dd> a person who never laughs</dd>
 </dl>
+
+
+<table>
+  <tr>
+    <th>past</th>
+    <th>present</th>
+    <th>future</th>
+  </tr>
+  <tr>
+    <td>talked</td>
+    <td>talk</td>
+     <td>will talk</td>
+  </tr>
+    <tr>
+    <td>walked</td>
+    <td>walk</td>
+     <td>will walk</td>
+  </tr>
+    <tr>
+    <td>shopped</td>
+    <td>shop</td>
+     <td>will shop</td>
+  </tr>
+</table>
