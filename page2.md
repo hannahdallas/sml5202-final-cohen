@@ -14,6 +14,7 @@
   <dd> a person who never laughs</dd>
 </dl>
 
+<hr>
 
 <table>
   <tr>
