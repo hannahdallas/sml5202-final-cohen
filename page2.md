@@ -38,3 +38,6 @@
      <td>will shop</td>
   </tr>
 </table>
+
+<li lang="he">
+  הלכתי לחנות וקניתי שמלה חדשה
