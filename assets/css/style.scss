@@ -2,3 +2,10 @@
 ---
 
 @import 'jekyll-theme-cayman';
+
+.page-header {
+    color: #fff;
+    text-align: center;
+    background-color: #29222b;
+    background-image: linear-gradient(120deg, #1e1286, #cc3cef);
+}
