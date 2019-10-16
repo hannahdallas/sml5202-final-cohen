@@ -3,7 +3,6 @@
 
 @import 'jekyll-theme-cayman';
 
-<!-- changing colors of header -->
 .page-header {
     color: #fff;
     text-align: center;
@@ -11,14 +10,12 @@
     background-image: linear-gradient(120deg, #1e1286, #cc3cef);
 }
 
-<!-- changing header wording style -->
 .project-tagline {
     margin-bottom: 2rem;
     font-weight: bolder;
     opacity: 0.4;
 }
 
-<!-- changing width of screen view -->
 @media screen and (min-width: 64em)
 .main-content {
     max-width: 94rem;
@@ -27,13 +24,11 @@
     font-size: 1.1rem;
 }
 
-<!-- changing header width/ padding -->
 @media screen and (min-width: 64em)
 .page-header {
     /* padding: 5rem 6rem; */
 }
 
-<!-- changing heading text styles -->
 .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
     margin-top: 2rem;
     margin-bottom: 1rem;
