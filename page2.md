@@ -10,6 +10,7 @@ This is a picture of a sunset. I chose it because it is a very pretty picture wi
 
 <hr>
 
+<p>
 <dl>
   <dt>Octothorpe</dt>
   <dd>the symbol #</dd>
@@ -18,6 +19,7 @@ This is a picture of a sunset. I chose it because it is a very pretty picture wi
    <dt>Agelast</dt>
   <dd> a person who never laughs</dd>
 </dl>
+</p>
 
 <hr>
 
