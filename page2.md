@@ -8,7 +8,6 @@
 This is a picture of a sunset. I chose it because it is a very pretty picture with lots of different colors. It also matches the color scheme of the website that I coded using HTML and CSS.
 </p>
 <div style="clear:both;"></div>
-<hr>
 
 
 <dl>
