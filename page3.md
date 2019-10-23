@@ -1,9 +1,7 @@
 
 <h1> Page 3 </h1>
 
-<!DOCTYPE html>
-<html>
-<body>
+
 
 <h2>List of all names in random sentences</h2>
 
@@ -36,5 +34,3 @@ document.getElementById("demo").innerHTML = text;
 
 </script>
 
-</body>
-</html>
