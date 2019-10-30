@@ -21,7 +21,7 @@ let idiom = (data.idioms[id].idiom);
 let meaning = (data.idioms[id].meaning);
 let example = (data.idioms[id].example);
 
-document.querySelector("#quote").innerHTML = "<dt>" + idiom + "</dt>" + "<dd><strong>Example:</strong> " + example + "</dd><dd><strong>Meaning:</strong>" + meaning + "</dd>";
+document.querySelector("#quote").innerHTML = "<dt>" + idiom + "</dt>" + "<dd><strong>Example:</strong> " + example + "</dd><dd><strong>Meaning:</strong> " + meaning + "</dd>";
 
 //console.log(data.idioms[id].idiom)
 })
