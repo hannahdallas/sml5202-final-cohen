@@ -1,8 +1,8 @@
 <a href="page2.html">Page 2</a> | <a href="page3.html">Page 3</a> | <a href="page4.html">Page 4</a>
 
 <h1>Home</h1>
-<hr>
-<h1>1. Section 1 </h1>
+
+<h2>1. Section 1 </h2>
 
 <p> 
   
@@ -14,7 +14,7 @@
 
 <hr>
 
-<h1> 2. Section 2 </h1>
+<h2> 2. Section 2 </h2>
 
 <p> Things I have to do </p>
   <ul>
@@ -25,7 +25,7 @@
 
 <hr>
 
-<h1> 3. Section 3 </h1>
+<h2> 3. Section 3 </h2>
 
 <p> My favorite things </p>
   <ol>
