@@ -32,8 +32,6 @@
   </ol>
   
   <hr>
-  
-<html>
 
 <h1> Random Idiom Using JSON</h1>
 
@@ -49,7 +47,7 @@ fetch(endpoint)
 return response.json();
 })
 .then(function(data){
-let id = Math.floor(Math.random() * 5);
+let id = Math.floor(Math.random() * 6);
 let idiom = (data.idioms[id].idiom);
 let meaning = (data.idioms[id].meaning);
 let example = (data.idioms[id].example);
@@ -68,7 +66,3 @@ const newQuoteButton = document.querySelector('.new-quote');
 newQuoteButton.addEventListener('click', getQuote);
 
 </script>
-
-
-
-</html>
