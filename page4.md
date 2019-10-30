@@ -1,3 +1,5 @@
+| <a href="index.html">Home</a> | <a href="page2.html">Page 2</a> | <a href="page3.html">Page 3</a>
+
 <h1> Random Idiom Using JSON</h1>
 
 <button type="button" class="new-quote button">Show Idiom</button>
