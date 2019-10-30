@@ -2,8 +2,6 @@
 
 <h1> Page 3 </h1>
 
-
-
 <h2>List of all names in random sentences</h2>
 
 <button onclick="makeSentence()">Generate a sentence</button>
