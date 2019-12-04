@@ -2,7 +2,8 @@ theme: jekyll-theme-cayman
 title: Hannah's page
 description: Website project for Computers and Language
 github:
-  page2: page2.html
-  page3: page3.html
-  page4: page4.html
-  exercises: exercises.html
+  Basic Words and Phrases: page2.html
+  Tourist Vocabulary: page3.html
+  Music: page4.html
+  Top Tips: page5.html
+
