@@ -1,8 +1,9 @@
 
 <h1>Home</h1>
 
-<p>
-<img class="imgLeft" src="https://en.wikipedia.org/wiki/Flag_of_Israel#/media/File:Flag_of_Israel.svg" alt="Israeli Flag" >
+<h1>
+<img class="imgLeft" src="https://ak6.picdn.net/shutterstock/videos/2436776/thumb/1.jpg" alt="Israeli Flag" >
 Welcome! Get ready to learn some Hebrew and prepare for a trip to Israel! 
-</p>
+</h1>
 <div style="clear:both;"></div>
+
