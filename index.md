@@ -2,7 +2,7 @@
 <h1>Home</h1>
 
 <h3>
- Welcome! Get ready to learn some Hebrew and prepare for your upcoming trip to Israel! 
+ Welcome! Get ready to learn some Hebrew and prepare for your trip to Israel! 
 </h3> <p> This website is designed for people who want to learn conversational Hebrew. It is aimed at anyone planning on visiting Israel but will be useful to anyone wanting to improve their Hebrew vocabulary. The website assumes prior knowledge of the Hebrew alphabet and how to read it.</p>
 
 It will incorporate vocabulary and phrases most useful for tourists in addition to tips for visiting.
