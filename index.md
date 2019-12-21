@@ -11,6 +11,6 @@ It will incorporate vocabulary and phrases most useful for tourists in addition 
 
 <div style="clear:both;"></div>
 
-
-
+<hr>
+<h2> Chech out these pics of some of the most famous places in Israel!</h2>
 <iframe src="https://h5p.org/h5p/embed/679753" width="1090" height="792" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
