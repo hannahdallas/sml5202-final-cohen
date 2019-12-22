@@ -10,14 +10,7 @@
 <a href="restaurant.html">Restaurant Test</a> | <a href=".html">Hotel Test</a> | <a href="weather.html">Weather Test</a> |<a href="transportation.html">Transportation Test</a> |
 
 
-Restaurant
-<iframe src="https://h5p.org/h5p/embed/684132" width="1090" height="964" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+
 <hr>
 Hotel
 <iframe src="https://h5p.org/h5p/embed/684166" width="1090" height="964" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
-<hr>
-Weather
-<iframe src="https://h5p.org/h5p/embed/675483" width="1090" height="965" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
-<hr>
-Transportation
-<iframe src="https://h5p.org/h5p/embed/684176" width="1090" height="964" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
