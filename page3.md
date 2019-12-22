@@ -6,5 +6,5 @@
 
 <hr>
 
-<h3>Test Yourself!</h3>
+<h1>Test Yourself!</h1>
 <a href="restaurant.html">Restaurant Test</a> | <a href="hotel.html">Hotel Test</a> | <a href="weather.html">Weather Test</a> |<a href="transportation.html">Transportation Test</a>
