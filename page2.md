@@ -7,6 +7,8 @@
 
 <hr>
 <h3>Numbers</h3>
+<a href="numbers.html">Click here for more number resources!</a>
 
 <hr>
 <h3>Days of the Week</h3>
+<a href="days.html">Click here for more days of the week resources!</a>
