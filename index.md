@@ -7,7 +7,7 @@
 
 It will incorporate vocabulary and phrases most useful for tourists in addition to tips for visiting.
 
- <img src="https://ak6.picdn.net/shutterstock/videos/2436776/thumb/1.jpg" alt="Israeli Flag">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Israel_%283-2%29.svg/720px-Flag_of_Israel_%283-2%29.svg.png" alt="Israeli Flag">
 
 <div style="clear:both;"></div>
 
