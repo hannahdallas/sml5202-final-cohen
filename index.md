@@ -5,7 +5,7 @@
  Welcome! Get ready to learn some Hebrew and prepare for your trip to Israel! 
 </h3> 
 
-This site provides an introduction to Hebrew vocabulary and Israeli culture so you can visit Israel feeling less like a tourist and more like a local.
+This site provides an introduction to Hebrew vocabulary and Israeli culture so you can visit Israel feeling less like a tourist and more like a local. Move through the pages on this site in order from left to right as shown in the header.
 
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Israel_%283-2%29.svg/720px-Flag_of_Israel_%283-2%29.svg.png" alt="Israeli Flag">
 
